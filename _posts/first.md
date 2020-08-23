@@ -42,7 +42,12 @@ submitted early enough that their description and test cases are much better tha
 You may finish the first 500 questions and then go ahead to do question 500 - 1500.
 
 5. coding on Leetcode's webpage or on your computer's notepad. Don't use IDE before you finish the whole coding process.
+Please notice that during a real code interview, you would usually write your code on a whiteboard or scratch paper, no IDEs like IDEA or Eclipse are available. So I strongly
+recommend that during daily leetcode training, you code directly on Leetcode webpage which has no features like autocompletion, or on your PC's notepad. After you finish the coding process,
+you can copy & paste your codes into your IDE to check errors and debug.
 
+If you are accustomed to writing codes in IDE, you may make many subtle mistakes during code interview, so you should practice writing codes without IDE. Fortunately, interviewers will not require
+you to write perfect codes on whiteboard or scratch paper. Minor mistakes are tolerated as long as they do not affect the main structure of your codes.
 
 Headings are cool
 ======
