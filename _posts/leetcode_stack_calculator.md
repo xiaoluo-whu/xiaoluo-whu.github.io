@@ -1,7 +1,7 @@
 ---
 title: 'Summary of calculator questions'
 date: 2020-09-06
-permalink: /posts/2020/09/leetcode-6/
+permalink: /posts/2020/09/leetcode-stack-calculator/
 tags:
   - Leetcode
   - algorithms

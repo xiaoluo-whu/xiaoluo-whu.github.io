@@ -1,7 +1,7 @@
 ---
 title: 'Summary of merge sort application'
 date: 2020-09-07
-permalink: /posts/2020/09/leetcode-7/
+permalink: /posts/2020/09/leetcode-merge-sort/
 tags:
   - Leetcode
   - Algorithms

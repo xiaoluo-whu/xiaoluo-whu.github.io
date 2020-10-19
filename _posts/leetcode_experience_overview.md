@@ -1,7 +1,7 @@
 ---
 title: 'My experiences and suggestions for cracking Leetcode'
 date: 2020-08-26
-permalink: /posts/2020/08/leetcode-0/
+permalink: /posts/2020/08/leetcode-experience-overview/
 tags:
   - Leetcode
   - Algorithms

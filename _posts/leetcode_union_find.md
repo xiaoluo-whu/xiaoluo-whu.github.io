@@ -1,7 +1,7 @@
 ---
 title: 'A generic template for solving Union-Find questions'
 date: 2020-09-02
-permalink: /posts/2020/09/leetcode-1/
+permalink: /posts/2020/09/leetcode-union-find/
 tags:
   - Leetcode
   - Algorithms
