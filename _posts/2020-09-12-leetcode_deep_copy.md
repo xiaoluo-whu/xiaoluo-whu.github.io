@@ -11,6 +11,7 @@ tags:
 ---
 
 In some questions, you are required to return a [**deep copy**](https://en.wikipedia.org/wiki/Object_copying#Deep_copy) of the original complicated object(like a graph, a linked list and so on).
+
 Of course, you can not return the original object directly, or it would not be called "deep". 
 In short, you have to recreate an object which is exactly identical to the original one and they must have the same values and internal relationships. 
 And a whole new bunch of space must be allocated to the recreated object.
@@ -22,7 +23,8 @@ Then when in the second loop, we can recreate the original object very easily.
 
 Please note that HashMap can take not only basic data types(like String, Integer, Long) as keys and values, but also complicated ones(like List, Set and Map).
 
-Here I list serveral Leetcode questions about deep copy. 
+Here I list serveral Leetcode questions about deep copy.
+
 [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 ```java
 public Node copyRandomList(Node head) {
