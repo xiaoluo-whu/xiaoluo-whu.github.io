@@ -18,8 +18,8 @@ And a whole new bunch of space must be allocated to the recreated object.
 
 > ![](https://xiaoluo-whu.github.io/files/images/Deep_copy_in_progress.svg)
 
-To tackle suck kind of questions, HashMap plays an important role. We can use HashMap to keep track of the relationship of the original elements and their counterparts in the to-be-deep-copy object in the first loop.
-Then when in the second loop, we can recreate the original object very easily.
+To tackle suck kind of questions, HashMap plays an important role. In the first loop, we can use HashMap to map the original elements to their counterparts in the to-be-deep-copy object.
+Then in the second loop, we can recreate the original object very easily.
 
 Please note that HashMap can take not only basic data types(like String, Integer, Long) as keys and values, but also complicated ones(like List, Set and Map).
 
