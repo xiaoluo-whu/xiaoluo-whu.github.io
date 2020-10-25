@@ -12,10 +12,9 @@ tags:
 
 Before we go into the discussion of depth first dearch(DFS), let's briefly introduce several basic concepts of graph.
 
-> ![](https://xiaoluo-whu.github.io/files/images/graph_concepts.png)
-> ![](https://xiaoluo-whu.github.io/files/images/directed_graph.jpg)
+> ![](https://xiaoluo-whu.github.io/files/images/graph_concepts.png) ![](https://xiaoluo-whu.github.io/files/images/directed_graph.jpg)
 
-Above is a undirected graph. Basically, a graph consists of **vertices** and **edges**. Every **edge** has two **vertices**, one **vertex** on each of two ends.
+Above left is a undirected graph. Basically, a graph consists of **vertices** and **edges**. Every **edge** has two **vertices**, one **vertex** on each of two ends.
 
 A group of connected vertices is called **connected components**.
 
