@@ -27,3 +27,28 @@ The number of edges ending with it is called **in degree**.
 
 For both undirected and directed graph, an internal loop is called a **cycle**.
 
+Then, let's talk about depths-first-search(DFS).
+
+> ![](https://xiaoluo-whu.github.io/files/images/graph_dfs.png)
+
+The DFS sequence of vertices of above graph is 
+
+> 0 -> 1 -> 2 -> 6 -> 4 -> 5 -> 3
+
+Then, we will try to implement DFS algorithm.
+
+> To visit a vertex v :
+> * Mark vertex v as visited.
+> * Recursively visit all unmarked vertices adjacent to v.
+
+>private void dfs(Graph G, int v)
+>{
+>    marked[v] = true;
+>    for (int w : G.adj(v))
+>        if (!marked[w])
+>        {
+>            dfs(G, w);
+>            edgeTo[w] = v;
+>        }
+>}
+
