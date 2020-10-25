@@ -12,6 +12,8 @@ tags:
 
 In some questions, you are required to return a [**deep copy**](https://en.wikipedia.org/wiki/Object_copying#Deep_copy) of the original complicated object(like a graph, a linked list and so on).
 
+<!--more-->
+
 Of course, you can not return the original object directly, or it would not be called "deep". 
 In short, you have to recreate an object which is exactly identical to the original one and they must have the same values and internal relationships. 
 And a whole new bunch of space must be allocated to the recreated object.

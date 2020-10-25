@@ -10,6 +10,9 @@ tags:
 ---
 
 to be updated
+
+<!--more-->
+
 [Two Sum](https://leetcode.com/problems/two-sum/)
 ```java
 public int[] twoSum(int[] nums, int target) {

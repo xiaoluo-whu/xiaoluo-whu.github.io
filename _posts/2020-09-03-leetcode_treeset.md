@@ -12,6 +12,8 @@ tags:
 
 to be updated
 
+<!--more-->
+
 [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
 ```java
 public boolean containsNearbyAlmostDuplicate(int[] nums, int k, int t) {

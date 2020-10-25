@@ -13,6 +13,8 @@ tags:
 For binary tree traversal, recursive solution is trivial. Conversely, iterative traversal is more challenging.
 Here we summarize iterative solutions of several binary tree traversal orders. Usually, a stack is indispensable in each solution.
 
+<!--more-->
+
 ## 1.Binary Tree Inorder Traversal 
 ```java
 public List<Integer> inorderTraversal(TreeNode root) {

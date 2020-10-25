@@ -10,6 +10,9 @@ tags:
 ---
 
 to be updated
+
+<!--more-->
+
 [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 ```java
 public int[] dailyTemperatures(int[] T) {

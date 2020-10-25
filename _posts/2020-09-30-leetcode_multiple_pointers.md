@@ -11,6 +11,8 @@ tags:
 
 to be updated
 
+<!--more-->
+
 [Sort Colors](https://leetcode.com/problems/sort-colors/)
 ```java
 public void sortColors(int[] nums) {

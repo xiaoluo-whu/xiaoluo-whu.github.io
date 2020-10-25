@@ -10,6 +10,8 @@ tags:
 ---
 Here we summarize questions involved with calculator design. Stack is frequently used in this kind of questions.
 
+<!--more-->
+
 ## 1. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 ```java
 public int evalRPN(String[] tokens) {

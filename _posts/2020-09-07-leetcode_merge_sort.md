@@ -11,6 +11,8 @@ tags:
 
 Among all of the sorting algorithms, merge sort has several obvious advantages.
 
+<!--more-->
+
 1.it is easy to implement(recursion + divide and conquer)
 
 2.its time complexity is O(NlgN) guaranteed which is better than other frequently used sorting algorithms.

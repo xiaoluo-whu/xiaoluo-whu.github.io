@@ -12,6 +12,8 @@ tags:
 
 to be updated
 
+<!--more-->
+
 [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 ```java
 public List<Integer> findAnagrams(String s, String t) {

@@ -11,6 +11,8 @@ tags:
 
 to be updated
 
+<!--more-->
+
 [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 ```java
 public ListNode mergeKLists(ListNode[] lists) {

@@ -12,6 +12,9 @@ tags:
 In short, Union-Find is an algorithm that models a graph, connecting some pairs of vertices and separating the graph into several connected components.
 There are several versions of Union-Find, like Quick-Union, Quick-Find and so on. Here we just list the most widely used version, Weighted-Quick-Union.
 I suggest you memorize the following code template so that you can build a Union-Find model very quickly in a code interview.
+
+<!--more-->
+
 ```java
 public class UF {
 

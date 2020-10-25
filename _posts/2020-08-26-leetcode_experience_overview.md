@@ -14,6 +14,8 @@ you have forgotten things learned in college, you may get stuck in some subtle d
 merge sort and require you to write down the codes of merge sort at first, then slightly modify it to solve the question. Without a good grasp of 
 data structure and algorithm, you may feel it very hard to make progress.
 
+<!--more-->
+
 [Algorithms](https://algs4.cs.princeton.edu/) offered by Princeton is one of the most prestigious and comprehensive CS online courses. It covers nearly every mainstream and prevalent data structure and algorithm.
 Prof. Sedgewick does a great job in combining abstract theory and concrete java implementations(Although CLRS is also a great option, I have to 
 say that it contains much theories and Math equations. Besides, it is based on C++ and may not be friendly to java programmers).
