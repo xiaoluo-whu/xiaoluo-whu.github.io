@@ -41,14 +41,16 @@ Then, we will try to implement DFS algorithm.
 > * Mark vertex v as visited.
 > * Recursively visit all unmarked vertices adjacent to v.
 
->private void dfs(Graph G, int v)
->{
->    marked[v] = true;
->    for (int w : G.adj(v))
->        if (!marked[w])
->        {
->            dfs(G, w);
->            edgeTo[w] = v;
->        }
->}
+```java
+private void dfs(Graph G, int v)
+{
+    marked[v] = true;
+    for (int w : G.adj(v))
+        if (!marked[w])
+        {
+            dfs(G, w);
+            edgeTo[w] = v;
+        }
+}
+```
 
