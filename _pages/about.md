@@ -19,6 +19,7 @@ understanding and solving LeetCode questions, you may find many useful tips and 
 ## Research Projects
 As a graduate student, my research areas included pattern recognition, computer vision and software engineering. The ultimate goal of the projects I did is to build a 
 software that can automatically identify printed documents, finding the source printer of a copy of docuemnt quickly and accurately. 
+
 To build a robust and efficient documents verification software, the primary task is to eliminate the influence of different letters' local shape factor and preserve only texture factor.
 Here are the two subprojects, corresponding to the two methods we adopt to eliminate shape factor. 
 
@@ -36,9 +37,17 @@ nearly every aspect of industrial software development, including backend, front
 ## Algorithms & LeetCode
 I have been solving LeetCode questions since 2014. In total, I have solved 500+ questions. 
 I find it a very good way to grasp various data structure and algorithms, which would be very helpful in academia and industry projects.
-However, if without summarizing previous solved questions and periodically review, it's very easy to forget.
-Therefore, I have been writing a series of blog posts to summarize various LeetCode's algorithm questions. By reading them, you may find 
-many useful tips to crack Leetcode questions. I try to put similar and related quetions into one summary post and generalize a code template to 
-solve the same kind of questions.
+However, without summarizing previous solved questions and periodically reviewing, it's very easy to forget.
 
- 
+Therefore, I have been writing a <a href="https://xiaoluo-whu.github.io/posts/2020/08/leetcode-experience-overview/" target="_blank">series of blog posts</a> to summarize various LeetCode's algorithm questions. By reading them, you may find 
+many useful tips to crack Leetcode questions. I try to put similar and related quetions into one summary post and generalize a code template to 
+solve them.
+
+## Recommenders
+I have been fortunate to work with or under supervision of some very diligent and smart people in both academia and industry.
+They will be my recommenders in my 2021 Fall application season. Should you have 
+any questions or doubt about working with me, ask them.
+
+* Dr. Wenwei Wang   Associate Professor at Electronic Information School, Wuhan University.
+* Dr. Yijun Luo     Associate Professor at Electronic Information School, Wuhan University.
+* Mr. Liang Peng    Deputy Manager of Tianbei Technology, senior software engineer.
