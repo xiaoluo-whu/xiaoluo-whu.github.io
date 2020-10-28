@@ -8,6 +8,9 @@ tags:
   - code interview
 ---
 
+I have been writing a series of blog posts summarizing various kinds of LeetCode questions.
+Check out the blog list <a href="https://xiaoluo-whu.github.io/posts/2020/08/catalogue_leetcode_summary/" target="_blank">here</a>, I am sure you will find something useful. 
+
 ## 1.solving questions should always be combined with [Princeton's online algorithm course](https://algs4.cs.princeton.edu/)
 I know some of you can not wait to write codes and solve questions. However, if you were not in CS major or 
 you have forgotten things learned in college, you may get stuck in some subtle details. For example, [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) is related to 
