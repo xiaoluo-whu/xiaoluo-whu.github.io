@@ -13,8 +13,10 @@ I obtained both my Bachelor's in Electrical Engineering and Master's degree in S
 I have five years' working experiences as a software engineer. 
 
 ## News
-* I have been writing a <a href="https://xiaoluo-whu.github.io/posts/2020/08/leetcode-experience-overview/" target="_blank">series of blog posts</a> summarizing various kinds of LeetCode algorithm questions. For those who have troubles 
+* 09/15/2020: I had been writing a <a href="https://xiaoluo-whu.github.io/posts/2020/08/leetcode-experience-overview/" target="_blank">series of blog posts</a> summarizing various kinds of LeetCode algorithm questions. For those who have troubles 
 understanding and solving LeetCode questions, you may find many useful tips and code templates in these blog posts.
+* 07/16/2020: I passed the admission interview of CUHK.
+* 04/15/2020: I was admitted into Computer Science graduate programs of UCDavis and MSU.
 
 ## Research Projects
 As a graduate student, my research areas included pattern recognition, computer vision and software engineering. The ultimate goal of the projects I did is to build a 
