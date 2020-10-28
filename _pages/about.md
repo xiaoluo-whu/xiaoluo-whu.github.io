@@ -23,16 +23,16 @@ software that can automatically identify printed documents, finding the source p
 To build a robust and efficient documents verification software, the primary task is to eliminate the influence of different letters' local shape factor and preserve only texture factor.
 Here are the two subprojects, corresponding to the two methods we adopt to eliminate shape factor. 
 
-* Printed Document Verification based on texture synthesis: By using texture synthesis algorithms.
-* Printed Document Verification based on two-factor analysis: By using the statistic model, two-factor analysis.
+* By using texture synthesis algorithms: Printed Document Verification based on texture synthesis &nbsp;[[**paper**]](https://link.springer.com/article/10.1007/s11042-015-2525-5)[[**code**]](https://github.com/xiaoluo-whu/nonparametric_search_texture_synthesis)[[**blog**]]()
+* By using the statistic model, two-factor analysis: Printed Document Verification based on two-factor analysis &nbsp;[[**paper**]](https://www.researchgate.net/profile/Xiao_Luo27/publication/282924491_Printed_characters'_texture_identification_based_on_two-factor_analysis/links/5dd037e692851c382f44052a/Printed-characters-texture-identification-based-on-two-factor-analysis.pdf)[[**code**]](https://github.com/xiaoluo-whu/printed_document_recognition)[[**blog**]]()
 
 ## Industry Projects
 I have several years' working experiences as a software engineering. Growing from a junior developer to a senior one, I have participated in
 nearly every aspect of industrial software development, including backend, frontend, testing and DevOps. 
 
-* Backend server application of a financial management App with millions scale users.
-* Supply chain management system of an E-commerce company.
-* I once lead a seven members' team to develop a PDF parsing service application.
+* Backend server application of a financial management App with millions scale users. &nbsp;[[**blog**]](https://xiaoluo-whu.github.io/posts/2018/05/leetcode-substring-search/)
+* Supply chain management system of an E-commerce company. &nbsp;[[**code**]](https://github.com/xiaoluo-whu/SP)[[**blog**]](https://xiaoluo-whu.github.io/posts/2019/08/review_server_prototype/)
+* I once lead a seven members' team to develop a PDF parsing service application. &nbsp;[[**blog**]]()
 
 ## Algorithms & LeetCode
 I have been solving LeetCode questions since 2014. In total, I have solved 500+ questions. 
@@ -48,6 +48,9 @@ I have been fortunate to work with or under supervision of some very diligent an
 They will be my recommenders in my 2021 Fall application season. Should you have 
 any questions or doubt about working with me, ask them.
 
-* Dr. Wenwei Wang   Associate Professor at Electronic Information School, Wuhan University.
-* Dr. Yijun Luo     Associate Professor at Electronic Information School, Wuhan University.
-* Mr. Liang Peng    Deputy Manager of Tianbei Technology, senior software engineer.
+* Dr. Wenwei Wang &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+Associate Professor at <a href="http://eis.whu.edu.cn/indexone.shtml" target="_blank">Electronic Information School</a>, <a href="https://en.whu.edu.cn/" target="_blank">Wuhan University</a>.
+* Dr. Yijun Luo &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+Associate Professor at <a href="http://eis.whu.edu.cn/indexone.shtml" target="_blank">Electronic Information School</a>, <a href="https://en.whu.edu.cn/" target="_blank">Wuhan University</a>.
+* Mr. Liang Peng &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+Deputy Manager of Tianbei Technology, senior software engineer.
