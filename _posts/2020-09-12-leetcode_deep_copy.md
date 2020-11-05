@@ -52,3 +52,38 @@ public Node copyRandomList(Node head) {
       return map.get(head);
 }
 ```
+
+[Clone Graph](https://leetcode.com/problems/clone-graph/)
+```java
+public Node cloneGraph(Node node) {
+    if(node == null) return null;
+    
+    //same idea as deep copy of linked list, but this method is DFS of a graph.
+    Node result = new Node(node.val);
+    HashSet<Integer> visited = new HashSet<Integer>();
+    HashMap<Node, Node> map = new HashMap<Node, Node>();
+    map.put(node, result);
+    dfs(node, result, visited, map);
+    
+    for(Node temp : map.keySet()) {
+        Node tmp = map.get(temp);
+        for(Node neigh : temp.neighbors) {
+            tmp.neighbors.add(map.get(neigh));
+        }
+    }
+    
+    return result;
+}
+
+private void dfs(Node node, Node copy, HashSet<Integer> visited, HashMap<Node, Node> map) {
+    visited.add(node.val);
+    for(Node temp : node.neighbors) {
+        if(!visited.contains(temp.val)) { 
+            Node tmp = new Node(temp.val);
+            map.put(temp, tmp);
+            dfs(temp, tmp, visited, map);   
+        }
+    }
+    
+}
+```
