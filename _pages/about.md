@@ -45,14 +45,14 @@ Therefore, I have been writing a <a href="https://xiaoluo-whu.github.io/posts/20
 many useful tips to crack Leetcode questions. I try to put similar and related quetions into one summary post and generalize a code template to 
 solve them.
 
-[//]: <> (## Recommenders
+<!--## Recommenders
 I have been fortunate to work with or under supervision of some very diligent and smart people in both academia and industry.
 They will be my recommenders in my 2021 Fall application season. Should you have 
-any questions or doubt about working with me, ask them.)
+any questions or doubt about working with me, ask them.
 
-[//]: <> (* <a href="mailto:{{ wangww@whu.edu.cn }}" target="_blank">Dr. Wenwei Wang</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+* <a href="mailto:{{ wangww@whu.edu.cn }}" target="_blank">Dr. Wenwei Wang</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 Associate Professor at <a href="http://eis.whu.edu.cn/indexone.shtml" target="_blank">Electronic Information School</a>, <a href="https://en.whu.edu.cn/" target="_blank">Wuhan University</a>.
 * <a href="mailto:{{ lyj@whu.edu.cn }}" target="_blank">Dr. Yijun Luo</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 Associate Professor at <a href="http://eis.whu.edu.cn/indexone.shtml" target="_blank">Electronic Information School</a>, <a href="https://en.whu.edu.cn/" target="_blank">Wuhan University</a>.
 * <a href="mailto:{{ lpeng@amxc.tech }}" target="_blank">Mr. Liang Peng</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-Deputy Manager of Tianbei Technology, senior software engineer.)
+Deputy Manager of Tianbei Technology, senior software engineer.-->
