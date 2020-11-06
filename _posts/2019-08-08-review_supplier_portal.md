@@ -12,6 +12,8 @@ tags:
 This is the server prototype of an ecommerce company's supply chain management system. Bottom framework is spring boot 2.1.
 [Dubbo](https://dubbo.apache.org/en-us/) is used as RPC framework.
 
+<!--more-->
+
 ## Components:
 spring boot 2.1 + dubbo + mybatis + RocketMQ + zookeeper 
 

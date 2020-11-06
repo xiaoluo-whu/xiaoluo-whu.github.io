@@ -12,6 +12,8 @@ tags:
 
 This is a Pdf file parsing and searching system that I led seven members to develop.
 
+<!--more-->
+
 > ![](https://xiaoluo-whu.github.io/files/images/pdf_parsing.jpg)
 
 In short, we want to build a web portal which makes it easy for users to search pdf files.
