@@ -32,9 +32,9 @@ Here are the two subprojects, corresponding to the two methods we adopt to elimi
 I have several years' working experiences as a software engineer. Growing from a junior developer to a senior one, I have participated in
 nearly every aspect of industrial software development, including backend, frontend, testing and DevOps. 
 
-* Backend server application of a financial management App with millions scale users. &nbsp;[[**blog**]](https://xiaoluo-whu.github.io/posts/2018/05/review-backend-structure/)
-* Supply chain management system of an E-commerce company. &nbsp;[[**code**]](https://github.com/xiaoluo-whu/SP)[[**blog**]](https://xiaoluo-whu.github.io/posts/2019/08/review_server_prototype/)
-* I once lead a seven members' team to develop a PDF parsing service application. &nbsp;[[**blog**]](https://xiaoluo-whu.github.io/posts/2017/11/pdf_parsing_searching/)
+* Backend server application of a financial management App with millions scale users &nbsp;[[**blog**]](https://xiaoluo-whu.github.io/posts/2018/05/review-backend-structure/)
+* Supply chain management system of an E-commerce company &nbsp;[[**code**]](https://github.com/xiaoluo-whu/SP)[[**blog**]](https://xiaoluo-whu.github.io/posts/2019/08/review_server_prototype/)
+* I once lead a seven members' team to develop a PDF parsing service application &nbsp;[[**blog**]](https://xiaoluo-whu.github.io/posts/2017/11/pdf_parsing_searching/)
 
 ## Algorithms & LeetCode
 I have been solving <a href="https://leetcode.com/" target="_blank">LeetCode</a> questions since 2014. In total, I have solved <a href="https://leetcode.com/LittileZiggs/" target="_blank">400+ questions</a>. 

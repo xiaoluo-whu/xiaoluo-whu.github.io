@@ -125,3 +125,48 @@ private boolean dfs(int i , int j, char[][] grid, boolean[][] visited, int M, in
     return true;
 }
 ```
+
+[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
+```java
+public int longestIncreasingPath(int[][] matrix) {
+    if(matrix == null || matrix.length == 0 || matrix[0].length == 0) return 0;
+
+    int M = matrix.length, N = matrix[0].length, result = 1;
+    int[][] memo = new int[M][N];
+
+    for(int i = 0; i < M; i++) {
+        for(int j = 0; j < N; j++) {
+            result = Math.max(dfs(i, j, M, N, matrix, memo), result);    
+        }
+    }
+
+    return result;
+}
+
+private int dfs(int i, int j, int M, int N, int[][] matrix, int[][] memo) {
+    //memoization save repetitous dfs search
+    if (memo[i][j] > 0) {
+        return memo[i][j];
+    }
+    int result = 1;
+    
+    if(i > 0 && matrix[i][j] > matrix[i - 1][j]) {
+        result = Math.max(result, 1 + dfs(i - 1, j, M, N, matrix, memo));
+    }
+
+    if(i < M - 1 && matrix[i][j] > matrix[i + 1][j]) {
+        result = Math.max(result, 1 + dfs(i + 1, j, M, N, matrix, memo));
+    }
+
+    if(j > 0 && matrix[i][j] > matrix[i][j - 1]) {
+        result = Math.max(result, 1 + dfs(i, j - 1, M, N, matrix, memo));
+    }
+
+    if(j < N - 1 && matrix[i][j] > matrix[i][j + 1]) {
+        result = Math.max(result, 1 + dfs(i, j + 1, M, N, matrix, memo));
+    }
+
+    memo[i][j] = result;
+    return result;
+}
+```
