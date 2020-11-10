@@ -19,10 +19,10 @@ understanding and solving LeetCode questions, you may find many useful tips and 
 * 04/15/2020: I was admitted into CS graduate programs of <a href="https://cs.ucdavis.edu/graduate" target="_blank">UCDavis</a> and <a href="https://www.cse.msu.edu/" target="_blank">MSU</a>.
 
 ## Research Projects
-As a graduate student, my research areas included pattern recognition, computer vision and software engineering. The ultimate goal of the projects I did is to build a 
+As a graduate student, my research areas included pattern recognition, computer vision and software engineering. I participated in a printer forensic project whose ultimate goal is to build a 
 software that can automatically identify printed documents, finding the source printer of a copy of docuemnt quickly and accurately. 
 
-To build a robust and efficient documents verification software, the primary task is to eliminate the influence of different letters' local shape factor and preserve only texture factor.
+To build a robust and efficient document verification software, the primary task is to eliminate the influence of different letters' local shape factor and preserve only texture factor.
 Here are the two subprojects, corresponding to the two methods we adopt to eliminate shape factor. 
 
 * By using texture synthesis algorithms: Printed Document Verification based on texture synthesis &nbsp;[[**paper**]](https://link.springer.com/article/10.1007/s11042-015-2525-5)[[**code**]](https://github.com/xiaoluo-whu/nonparametric_search_texture_synthesis)
@@ -34,7 +34,7 @@ nearly every aspect of industrial software development, including backend, front
 
 * Backend server application of a financial management App with millions scale users &nbsp;[[**blog**]](https://xiaoluo-whu.github.io/posts/2018/05/review-backend-structure/)
 * Supply chain management system of an E-commerce company &nbsp;[[**code**]](https://github.com/xiaoluo-whu/SP)[[**blog**]](https://xiaoluo-whu.github.io/posts/2019/08/review_server_prototype/)
-* I once lead a seven members' team to develop a PDF parsing service application &nbsp;[[**blog**]](https://xiaoluo-whu.github.io/posts/2017/11/pdf_parsing_searching/)
+* I once lead a seven members' team to develop a PDF search engine &nbsp;[[**blog**]](https://xiaoluo-whu.github.io/posts/2017/11/pdf_parsing_searching/)
 
 ## Algorithms & LeetCode
 I have been solving <a href="https://leetcode.com/" target="_blank">LeetCode</a> questions since 2014. In total, I have solved <a href="https://leetcode.com/LittileZiggs/" target="_blank">400+ questions</a>. 
