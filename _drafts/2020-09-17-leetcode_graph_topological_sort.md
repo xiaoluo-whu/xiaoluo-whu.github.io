@@ -13,3 +13,13 @@ tags:
 to be updated
 
 <!--more-->
+
+[Course Schedule](https://leetcode.com/problems/course-schedule/)
+```java
+
+```
+
+[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+```java
+
+```
