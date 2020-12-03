@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm a Ph.D. applicant applying for CS or ECE Ph.D. programs in 2021 Fall. My research interests lie in software engineering, computer vision and distributed systems.
+Hi there! I'm a Ph.D. applicant applying for CS or ECE Ph.D. programs in 2021 Fall. My research interests lie in distributed systems, computer vision, and applied machine learning.
 I obtained both my Bachelor's in Electrical Engineering and Master's degree in Signal Processing from <a href="https://en.whu.edu.cn/" target="_blank">Wuhan University</a> in 2012 and 2015 respectively. 
 I have four years' working experiences as a software engineer. 
 
@@ -20,9 +20,9 @@ understanding and solving LeetCode questions, you may find many useful tips and 
 
 ## Research Projects
 As a graduate student, my research areas included pattern recognition, computer vision and software engineering. I participated in a printer forensic project whose ultimate goal is to build a 
-software that can automatically identify printed documents, finding the source printer of a copy of docuemnt quickly and accurately. 
+software system that can automatically identify printed documents, finding the source printer of a copy of docuemnt quickly and accurately. 
 
-To build a robust and efficient document verification software, the primary task is to eliminate the influence of different letters' local shape factor and preserve only texture factor.
+To build a robust and efficient document verification software, the biggest challenge is to eliminate the influence of different alphabetic characters’ local shape factor and preserve only texture factor.
 Here are the two subprojects, corresponding to the two methods we adopt to eliminate shape factor. 
 
 * By using texture synthesis algorithms: Printed Document Verification based on texture synthesis &nbsp;[[**paper**]](https://link.springer.com/article/10.1007/s11042-015-2525-5)[[**code**]](https://github.com/xiaoluo-whu/nonparametric_search_texture_synthesis)
@@ -30,7 +30,7 @@ Here are the two subprojects, corresponding to the two methods we adopt to elimi
 
 ## Industry Projects
 I have several years' working experiences as a software engineer. Growing from a junior developer to a senior one, I have participated in
-nearly every aspect of industrial software development, including backend, frontend, testing and DevOps. 
+nearly every aspect of industrial software development, including backend, frontend, testing and DevOps. I have been trying to build large-scale scalable systems, improving consistency and availability.
 
 * Backend server application of a financial management App with millions scale users &nbsp;[[**blog**]](https://xiaoluo-whu.github.io/posts/2018/05/review-backend-structure/)
 * Supply chain management system of an E-commerce company &nbsp;[[**code**]](https://github.com/xiaoluo-whu/SP)[[**blog**]](https://xiaoluo-whu.github.io/posts/2019/08/review_server_prototype/)
