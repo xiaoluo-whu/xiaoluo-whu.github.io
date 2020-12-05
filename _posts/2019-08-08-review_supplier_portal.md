@@ -30,9 +30,9 @@ ZooKeeper 3.5.5
 There are 5 modules in total.  
 * sp-api: service interfaces  
 * sp-common: frequently used util classes and constants in RPC  
-* sp-dao: mybatis mappers, models and plugins  
-* sp-service: dubbo provider, implementation of service interfaces, RocketMQ util  
-* sp-web: dubbo consumer, controllers for http restful  
+* sp-dao: MyBatis mappers, models and plugins  
+* sp-service: Dubbo provider, implementation of service interfaces, RocketMQ util  
+* sp-web: Dubbo consumer, controllers for http RESTful  
 
 ## distribution environment:
 see the application*.yml in sp-web and sp-service for reference.  
@@ -43,15 +43,15 @@ If you want to make a package for production environment, you should launch the 
   
 > nohup java -jar sp-web-1.0.0-SNAPSHOT.jar --spring.profiles.active=prod &  
 
-## auto-generate mybatis mappers, interfaces and models:
-The project contains a plugin "mybatis-generator", which could generate mybatis mappers, interfaces and models with a simple few clicks.
-Suppose you want to add those files according to the mysql table "demo".   
+## auto-generate MyBatis mappers, interfaces and models:
+The project contains a plugin "mybatis-generator", which could generate MyBatis mappers, interfaces and models with a simple few clicks.
+Suppose you want to add those files according to the MySQL table "demo".   
 
 First of all, modifying the generatorConfig.xml through adding the following line in the area of tag <context id="MysqlContext">.  
 
 	<table tableName="demo" domainObjectName="Demo"><property name="useActualColumnNames" value="false" /></table>  
 	
-Then, click the idea maven side-bar on the right, find the plugin and right click it, then select "Run Maven Build".     	   
+Then, click the idea Maven side-bar on the right, find the plugin and right click it, then select "Run Maven Build".     	   
 
 Then those tedius mapper files could be auto-generated.   
 
@@ -65,4 +65,4 @@ Then those tedius mapper files could be auto-generated.
 3.switch to sp-web/target, enter the following text in the command line  
 >          nohup java -jar sp-web-1.0.0-SNAPSHOT.jar &
   
-4.then you can send http restful request from restlet or postman.    
+4.then you can send http RESTful request from Restlet or Postman.    
