@@ -3,7 +3,7 @@ title: 'Some tricky questions can be solved by using stack'
 date: 2020-09-13
 permalink: /posts/2020/09/leetcode-stack-tricky/
 tags:
-  - Leetcode
+  - LeetCode
   - Algorithms
   - code interview
   - stack

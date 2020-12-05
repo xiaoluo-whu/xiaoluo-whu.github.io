@@ -4,9 +4,9 @@ date: 2017-11-30
 permalink: /posts/2017/11/pdf_parsing_searching/
 tags:
   - pdf parsing
-  - solr
+  - Solr
   - search engine
-  - linux
+  - Linux
   - cluster
 ---
 
@@ -24,7 +24,7 @@ A pdf file usually contains not only plain text, but also table, graph, title, a
 To build such a system, we adopt third party frameworks, PDFPARSER and PDFBox, to parse pdf files, extracting a pdf's text, table and 
 graph, title, author names and other features. Then, we save these fields into [MongoDB](https://www.mongodb.com/). 
 
-We build an [solr](https://lucene.apache.org/solr/) search engine and push those extracted pdf fields into the engine.
+We build an [Solr](https://lucene.apache.org/solr/) search engine and push those extracted pdf fields into the engine.
 Then, we build a browser-server mode portal for users to search pdf files by various fields.
 
 In total, we set up a distributed system consisting of five servers.
@@ -32,5 +32,5 @@ In total, we set up a distributed system consisting of five servers.
 * server1: task generator. Monitoring incremental pdf files in MongoDB, assigning parsing tasks to "workers".
 * server2: worker. Parsing pdf files and save extracted fields into MongoDB.
 * server3: worker. Same as server2.
-* server4: solr search engine. 
+* server4: Solr search engine. 
 * server5: backend of the portal website.

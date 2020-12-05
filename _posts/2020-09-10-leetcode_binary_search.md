@@ -3,7 +3,7 @@ title: 'Summary of binary search'
 date: 2020-09-10
 permalink: /posts/2020/09/leetcode-binary-search/
 tags:
-  - Leetcode
+  - LeetCode
   - Algorithms
   - code interview
   - binary search

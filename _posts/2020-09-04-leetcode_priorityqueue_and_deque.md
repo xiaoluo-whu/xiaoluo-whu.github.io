@@ -3,7 +3,7 @@ title: 'Summary of priority queue and deque(double-ended-queue)'
 date: 2020-09-04
 permalink: /posts/2020/09/leetcode-priorityqueue-and-deque/
 tags:
-  - Leetcode
+  - LeetCode
   - Algorithms
   - code interview
   - priority queue

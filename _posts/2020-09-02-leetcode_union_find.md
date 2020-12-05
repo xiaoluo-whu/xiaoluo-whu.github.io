@@ -3,7 +3,7 @@ title: 'A generic template for solving Union-Find questions'
 date: 2020-09-02
 permalink: /posts/2020/09/leetcode-union-find/
 tags:
-  - Leetcode
+  - LeetCode
   - Algorithms
   - code interview
   - Union Find
@@ -87,7 +87,7 @@ public class UF {
     }
 ```
 
-Sample Union-Find questions on Leetcode
+Sample Union-Find questions on LeetCode
 [Friend Circles](https://leetcode.com/problems/friend-circles/)
 ```java
 class Solution {

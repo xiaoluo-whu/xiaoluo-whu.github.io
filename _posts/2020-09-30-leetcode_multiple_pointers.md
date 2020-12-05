@@ -3,7 +3,7 @@ title: 'Summary of multiple pointers application'
 date: 2020-09-30
 permalink: /posts/2020/09/leetcode-multiple-pointers/
 tags:
-  - Leetcode
+  - LeetCode
   - Algorithms
   - code interview
   - multiple pointers

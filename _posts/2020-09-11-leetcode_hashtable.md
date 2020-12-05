@@ -3,7 +3,7 @@ title: 'Summary of hash table'
 date: 2020-09-11
 permalink: /posts/2020/09/leetcode-hash-table/
 tags:
-  - Leetcode
+  - LeetCode
   - Algorithms
   - code interview
   - hash table

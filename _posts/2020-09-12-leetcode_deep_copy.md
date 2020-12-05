@@ -3,7 +3,7 @@ title: 'Summary of object deep copy questions'
 date: 2020-09-12
 permalink: /posts/2020/09/leetcode-deep-copy/
 tags:
-  - Leetcode
+  - LeetCode
   - Algorithms
   - code interview
   - hash table
@@ -25,7 +25,7 @@ Then in the second loop, we can recreate the original object very easily.
 
 Please note that HashMap can take not only basic data types(like String, Integer, Long) as keys and values, but also complicated ones(like List, Set and Map).
 
-Here I list serveral Leetcode questions about deep copy.
+Here I list serveral LeetCode questions about deep copy.
 
 [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 ```java

@@ -5,7 +5,7 @@ permalink: /posts/2018/05/review-backend-structure/
 tags:
   - backend
   - server application
-  - netty
+  - Netty
 ---
 
 The whole system is a typical cilent-server structure. The client end has both Android and IOS version.

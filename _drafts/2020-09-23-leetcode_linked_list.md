@@ -3,7 +3,7 @@ title: 'Tips for solving linked list questions'
 date: 2020-09-23
 permalink: /posts/2020/09/leetcode-linked-list/
 tags:
-  - Leetcode
+  - LeetCode
   - Algorithms
   - code interview
   - linked list

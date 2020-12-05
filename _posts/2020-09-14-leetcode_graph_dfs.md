@@ -3,7 +3,7 @@ title: 'Summary of depth first search application'
 date: 2020-09-14
 permalink: /posts/2020/09/leetcode-graph-dfs/
 tags:
-  - Leetcode
+  - LeetCode
   - Algorithms
   - code interview
   - graph

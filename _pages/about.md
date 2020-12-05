@@ -42,7 +42,7 @@ I find it a very good way to grasp various data structure and algorithms, which 
 However, without summarizing previous solved questions and periodically reviewing, it's very easy to forget.
 
 Therefore, I have been writing a <a href="https://xiaoluo-whu.github.io/posts/2020/08/catalogue_leetcode_summary/" target="_blank">series of blog posts</a> to summarize various LeetCode's algorithm questions. By reading them, you may find 
-many useful tips to crack Leetcode questions. I try to put similar and related quetions into one summary post and generalize a code template to 
+many useful tips to crack LeetCode questions. I try to put similar and related quetions into one summary post and generalize a code template to 
 solve them.
 
 <!--## Recommenders

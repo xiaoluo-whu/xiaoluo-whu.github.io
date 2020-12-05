@@ -3,7 +3,7 @@ title: 'Summary of iterative binary tree traversal'
 date: 2020-09-05
 permalink: /posts/2020/09/leetcode-iterative-binary-tree-traversal/
 tags:
-  - Leetcode
+  - LeetCode
   - algorithms
   - code interview
   - binary tree  

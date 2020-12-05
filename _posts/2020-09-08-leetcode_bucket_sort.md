@@ -3,7 +3,7 @@ title: 'Summary of bucket sort application'
 date: 2020-09-08
 permalink: /posts/2020/09/leetcode-bucket-sort/
 tags:
-  - Leetcode
+  - LeetCode
   - Algorithms
   - code interview
   - bucket sort

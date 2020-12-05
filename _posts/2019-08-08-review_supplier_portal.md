@@ -5,8 +5,8 @@ permalink: /posts/2019/08/review_server_prototype/
 tags:
   - backend
   - server application
-  - spring boot
-  - dubbo
+  - Spring Boot
+  - Dubbo
 ---
 
 This is the server prototype of an ecommerce company's supply chain management system. Bottom framework is spring boot 2.1.
@@ -15,16 +15,16 @@ This is the server prototype of an ecommerce company's supply chain management s
 <!--more-->
 
 ## Components:
-spring boot 2.1 + dubbo + mybatis + RocketMQ + zookeeper 
+Spring Boot 2.1 + Dubbo + MyBatis + RocketMQ + ZooKeeper 
 
 ## System requirements:
-JDK8+  
+JDK 8+  
 
-maven3.3+
+Maven 3.3+
 
-RocketMQ4.4.0
+RocketMQ 4.4.0
 
-zookeeper3.5.5
+ZooKeeper 3.5.5
 
 ## Modules:
 There are 5 modules in total.  

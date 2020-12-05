@@ -3,7 +3,7 @@ title: 'Catalogue of LeetCode summary blog posts'
 date: 2020-08-27
 permalink: /posts/2020/08/catalogue_leetcode_summary/
 tags:
-  - Leetcode
+  - LeetCode
   - Algorithms
   - code interview
 ---

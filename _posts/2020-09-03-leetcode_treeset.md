@@ -3,7 +3,7 @@ title: 'Summary of treeset and treemap application'
 date: 2020-09-03
 permalink: /posts/2020/09/leetcode-treeset/
 tags:
-  - Leetcode
+  - LeetCode
   - Algorithms
   - code interview
   - TreeSet
