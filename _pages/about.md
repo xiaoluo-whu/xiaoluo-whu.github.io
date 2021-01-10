@@ -7,8 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Hi there! I'm a Ph.D. applicant applying for CS or ECE Ph.D. programs in 2021 Fall. My research interests lie in distributed systems, computer vision, and applied machine learning.
+<!--##
+I'm a Ph.D. applicant applying for CS or ECE Ph.D. programs in 2021 Fall.
+-->
+Hi there! I'm a software engineer, algorithm engineer, and computer vision researcher. My research interests lie in distributed systems, computer vision, and applied machine learning.
 I obtained both my Bachelor's in Electrical Engineering and Master's degree in Signal Processing from <a href="https://en.whu.edu.cn/" target="_blank">Wuhan University</a> in 2012 and 2015 respectively. 
 I have four years' working experiences as a software engineer. 
 
