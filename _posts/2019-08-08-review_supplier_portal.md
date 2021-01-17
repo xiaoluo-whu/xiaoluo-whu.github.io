@@ -14,8 +14,10 @@ This is the server prototype of an ecommerce company's supply chain management s
 
 <!--more-->
 
+> ![](https://xiaoluo-whu.github.io/files/images/general_backend_structure.png)
+
 ## Components:
-Spring Boot 2.1 + Dubbo + MyBatis + RocketMQ + ZooKeeper 
+Spring Boot 2.1 + Dubbo + ZooKeeper + MySQL + Redis 
 
 ## System requirements:
 JDK 8+  

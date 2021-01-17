@@ -14,7 +14,7 @@ This is a Pdf file parsing and searching system that I led seven members to deve
 
 <!--more-->
 
-> ![](https://xiaoluo-whu.github.io/files/images/pdf_parsing.jpg)
+> ![](https://xiaoluo-whu.github.io/files/images/pdf_search_engine.png)
 
 In short, we want to build a web portal which makes it easy for users to search pdf files.
 However, in order to make the search service user-friendly. We can not only search by pdf files' title. We need to go deeper, 
