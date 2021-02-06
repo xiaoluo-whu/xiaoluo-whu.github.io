@@ -10,11 +10,12 @@ redirect_from:
 <!--##
 I'm a Ph.D. applicant applying for CS or ECE Ph.D. programs in 2021 Fall.
 -->
-Hi there! I'm a software engineer, algorithm engineer, and computer vision researcher. My research interests lie in distributed systems, computer vision, and applied machine learning.
+Hi there! I'm a software engineer at Tencent(Tencent Cloud). My research interests lie in distributed systems, computer vision, and applied machine learning.
 I obtained both my Bachelor's in Electrical Engineering and Master's degree in Signal Processing from <a href="https://en.whu.edu.cn/" target="_blank">Wuhan University</a> in 2012 and 2015 respectively. 
 I have four years' working experiences as a software engineer. 
 
 ## News
+* 02/03/2021: I joined Tencent(Tencent Cloud) as a backend developer, developing the API open platform of <a href="https://voovmeeting.com/" target="_blank">VooV Meeting</a>.
 * 09/15/2020: I had been writing a <a href="https://xiaoluo-whu.github.io/posts/2020/08/leetcode-experience-overview/" target="_blank">series of blog posts</a> summarizing various kinds of LeetCode algorithm questions. For those who have troubles 
 understanding and solving LeetCode questions, you may find many useful tips and code templates in these blog posts.
 * 07/16/2020: I passed the admission interview of <a href="https://www.cse.cuhk.edu.hk/en/education/prospective-students/postgraduate-admissions-programmes/mphil-phd-programme" target="_blank">CUHK CSE Ph.D. program</a>.

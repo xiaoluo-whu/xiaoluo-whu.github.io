@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiao Luo"
 title_separator          : "-"
 name                     : &name "Xiao Luo"
-description              : &description "Software Engineer, Algorithm Engineer, Computer Vision Researcher"
+description              : &description "Software Engineer at Tencent(Tencent Cloud)"
 url                      : https://xiaoluo-whu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaoluo-whu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiao Luo"
   avatar           : "avatar.png"
-  bio              : "Software Engineer, Algorithm Engineer, Computer Vision Researcher"
+  bio              : "Software Engineer at Tencent(Tencent Cloud)"
   location         : "Wuhan, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
