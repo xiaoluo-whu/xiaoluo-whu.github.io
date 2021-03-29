@@ -18,6 +18,7 @@ I have four years' working experiences as a software engineer.
 * 02/03/2021: I joined Tencent(Tencent Cloud) as a backend developer, developing the API open platform of <a href="https://voovmeeting.com/" target="_blank">VooV Meeting</a>.
 * 09/15/2020: I had been writing a <a href="https://xiaoluo-whu.github.io/posts/2020/08/leetcode-experience-overview/" target="_blank">series of blog posts</a> summarizing various kinds of LeetCode algorithm questions. For those who have troubles 
 understanding and solving LeetCode questions, you may find many useful tips and code templates in these blog posts.
+
 <!--##
 * 07/16/2020: I passed the admission interview of <a href="https://www.cse.cuhk.edu.hk/en/education/prospective-students/postgraduate-admissions-programmes/mphil-phd-programme" target="_blank">CUHK CSE Ph.D. program</a>.
 * 04/15/2020: I was admitted into CS graduate programs of <a href="https://cs.ucdavis.edu/graduate" target="_blank">UCDavis</a> and <a href="https://www.cse.msu.edu/" target="_blank">MSU</a>.
